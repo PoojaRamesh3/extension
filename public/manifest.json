@@ -5,13 +5,13 @@
     "description": "This extension shows a Google Image search result for the current page",
     "version": "1.0",
     "icons": {
-        "16": "ckeck.png",
-        "48": "ckeck.png",
-        "128": "ckeck.png"
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
     },
 
     "action": {
-        "default_icon": "ckeck.png",
+        "default_icon": "logo.png",
         "default_popup": "index.html",
         "default_title": "To Do List"
     },
